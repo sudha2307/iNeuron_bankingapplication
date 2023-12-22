@@ -16,6 +16,14 @@ WIREFRAME LINK
 
 DEMO VIDEO 
 
-      <div style="position: relative; padding-bottom: 53.43750000000001%; height: 0;"><iframe src="https://www.loom.com/embed/913998c12020463e987308b03260b1c4?sid=e8c64d78-6bde-4237-82b4-4950ad55d8a3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+      https://www.loom.com/share/913998c12020463e987308b03260b1c4?t=29&sid=235555bd-b414-4095-9381-85bb52a7fe47
+
+
+
+https://github.com/sudha2307/iNeuron_bankingapplication/assets/81276604/225874b6-3aa9-4358-a068-40d32c6cc4de
+
+
+      
+
 
 
