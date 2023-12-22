@@ -1,5 +1,12 @@
 # iNeuron_bankingapplication
-This iNeuron_bankingapplication Repository is created for getting certification from ineuorn
+This iNeuron_bankingapplication project was created for getting expereince and internship certification from ineuorn 
+
+      https://internship.ineuron.ai/
+
+      ![image](https://github.com/sudha2307/iNeuron_bankingapplication/assets/81276604/36da8112-4f32-4b1f-8e48-954493c1a0ba)
+
+
+
 
 DETAIL PROJECT REPORT 
 
