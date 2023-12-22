@@ -1,5 +1,5 @@
 # iNeuron_bankingapplication
-This iNeuron_bankingapplication project was created for getting expereince and internship certification from ineuorn 
+This iNeuron_bankingapplication project was created for getting project experience and internship certification from ineuorn 
 
       https://internship.ineuron.ai/
 
