@@ -3,9 +3,7 @@ This iNeuron_bankingapplication project was created for getting expereince and i
 
       https://internship.ineuron.ai/
 
-      ![image](https://github.com/sudha2307/iNeuron_bankingapplication/assets/81276604/36da8112-4f32-4b1f-8e48-954493c1a0ba)
-
-
+https://ineuron.ai/
 
 
 DETAIL PROJECT REPORT 
@@ -28,6 +26,14 @@ DEMO VIDEO
 
 
 https://github.com/sudha2307/iNeuron_bankingapplication/assets/81276604/225874b6-3aa9-4358-a068-40d32c6cc4de
+
+Architecture 
+
+      https://www.canva.com/design/DAF3sQZKXew/V4ChQ1w7LvSeU5WAbcBOPQ/edit?utm_content=DAF3sQZKXew&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Low Level Document(LLD)
+
+      https://www.canva.com/design/DAF3sRLJr-o/dqVvrWz9L9Fj4cNLTrQhig/edit?utm_content=DAF3sRLJr-o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
       
